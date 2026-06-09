@@ -1,4 +1,4 @@
-# 📌 Task 4: Context-Aware Chatbot using LangChain (RAG)
+# Task 4: Context-Aware Chatbot using LangChain (RAG)
 # Objective
 
 To build a chatbot that:
